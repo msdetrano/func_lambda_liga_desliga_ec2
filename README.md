@@ -1,8 +1,8 @@
-Automação para ligar e desligar instâncias EC2 usando AWS Lambda e EventBridge.
+**Automação para ligar e desligar instâncias EC2 usando AWS Lambda e EventBridge.**
 
 Este projeto configura uma função Lambda que, combinada com regras do EventBridge, automatiza o processo de ligar ou desligar instâncias EC2 em horários pré-determinados. Essa solução é ideal para economizar custos em ambientes de desenvolvimento ou teste.
 
-Arquitetura
+**Arquitetura**
 AWS Lambda: Executa o código que liga/desliga as instâncias EC2.
 AWS EventBridge: Define regras de agendamento para acionar a função Lambda.
 Pré-requisitos
