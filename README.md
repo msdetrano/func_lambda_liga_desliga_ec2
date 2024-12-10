@@ -14,7 +14,7 @@ Passos para Configuração
 1. Clonar o Repositório
 bash
 Copiar código
-git clone https://github.com/seu-usuario/func_lambda_liga_desliga_ec2.git  
+https://github.com/msdetrano/func_lambda_liga_desliga_ec2.git  
 cd func_lambda_liga_desliga_ec2  
 2. Configurar o Código Lambda
 No arquivo lambda_function.py:
